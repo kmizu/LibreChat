@@ -48,9 +48,9 @@ bower_components/
 .floo
 .flooignore
 
-#config file
-librechat.yaml
-librechat.yml
+# config file
+# librechat.yaml
+# librechat.yml
 
 # Environment
 .npmrc
@@ -78,8 +78,8 @@ junit.xml
 **/.venv/
 
 # docker override file
-docker-compose.override.yaml
-docker-compose.override.yml
+# docker-compose.override.yaml
+# docker-compose.override.yml
 
 # meilisearch
 meilisearch
